@@ -1,28 +1,40 @@
-# Tiktok-Videos-Downloader-
-🎵 TikTok Video Downloader Without Watermark
-A powerful and lightweight tool to download TikTok videos without watermark, built for fast performance and clean results. This project allows users to save TikTok videos in high quality directly to their devices without needing to log in or use third-party APIs.
+# TikTok Downloader
 
-🚀 Features
-✅ Download TikTok videos without watermark
+A web application for downloading TikTok videos with multiple quality options and features.
 
-🎥 High-quality video output
+## Features
 
-⚡ Fast and efficient downloader
+- Download TikTok videos in different qualities (4K, HD, Audio only)
+- Remove watermark option
+- Download history tracking
+- Usage analytics
+- Multi-language support (English, Spanish, French, German, Chinese)
+- Responsive design
+- Dark/Light mode
 
-📱 Mobile and desktop friendly
+## Technologies Used
 
-🧠 Clean and minimal UI
+- HTML5
+- CSS3 (Tailwind CSS)
+- JavaScript
+- Chart.js (for analytics)
+- Font Awesome icons
 
-🔒 No login required, no data tracking
+## Installation
 
-💻 Lightweight & responsive design
+1. Clone this repository
+2. Open `index.html` in your browser
 
-🛠️ Technologies Used
-HTML5, CSS3, JavaScript
+## Usage
 
-Tailwind CSS (optional for modern UI)
+1. Paste TikTok video URL
+2. Select quality options
+3. Click download button
 
-Vanilla JS logic for parsing & processing
+## Screenshots
 
-PHP/Python (optional) for backend support (depending on your implementation)
+[Add screenshots here]
 
+## License
+
+MIT
