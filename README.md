@@ -31,10 +31,6 @@ A web application for downloading TikTok videos with multiple quality options an
 2. Select quality options
 3. Click download button
 
-## Screenshots
-
-[Add screenshots here]
-
 ## License
 
 MIT
